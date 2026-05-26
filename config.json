@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderdelete",
+        "uuid": 9214612,
+        "checksum": "mcor79"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
